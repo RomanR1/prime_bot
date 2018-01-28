@@ -1,1 +1,1 @@
-# prime_bot
+# manage_support_bot
